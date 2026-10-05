@@ -24,14 +24,14 @@ val DarkTextTertiary = Color(0xFF8A8A8A)
 val DarkBorder = Color(0xFF444444)
 
 // Accent & status
-val Accent = Color(0xFF10A37F)
-val Success = Color(0xFF10A37F)
+val Accent = Color(0xFF4D6BFE)
+val Success = Color(0xFF4D6BFE)
 val Warning = Color(0xFFD97706)
 val Error = Color(0xFFDC2626)
 val Info = Color(0xFF2563EB)
 
 // Accent-tinted container pairs (selected tab indicator, chips, badges).
-val LightAccentContainer = Color(0xFFD9F0E9)
-val LightAccentContainerText = Color(0xFF0B6B52)
-val DarkAccentContainer = Color(0xFF123B31)
-val DarkAccentContainerText = Color(0xFF7FD9BC)
+val LightAccentContainer = Color(0xFFE3E8FF)
+val LightAccentContainerText = Color(0xFF2C3BB8)
+val DarkAccentContainer = Color(0xFF1B2360)
+val DarkAccentContainerText = Color(0xFFA9B8FF)

@@ -43,12 +43,12 @@ private val DarkTextSecondary = Color(0xFFB4B4B4)
 private val DarkTextTertiary = Color(0xFF8A8A8A)
 private val DarkBorder = Color(0xFF444444)
 
-private val Accent = Color(0xFF10A37F)
+private val Accent = Color(0xFF4D6BFE)
 private val ErrorRed = Color(0xFFDC2626)
-private val LightAccentContainer = Color(0xFFD9F0E9)
-private val LightAccentContainerText = Color(0xFF0B6B52)
-private val DarkAccentContainer = Color(0xFF123B31)
-private val DarkAccentContainerText = Color(0xFF7FD9BC)
+private val LightAccentContainer = Color(0xFFE3E8FF)
+private val LightAccentContainerText = Color(0xFF2C3BB8)
+private val DarkAccentContainer = Color(0xFF1B2360)
+private val DarkAccentContainerText = Color(0xFFA9B8FF)
 
 /**
  * 三档文字色里最浅的那一档。宿主把它留在配色方案之外，本模块的门控状态与计数要用它，

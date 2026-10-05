@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
   插件管理入口图标：品牌绿底 + 白色拼图。
-  底色与 DshPilot 品牌标一致（#066A50），两者在首页上下相邻时色调统一。
+  底色与 DshPilot 品牌标一致（#3A4BC8），两者在首页上下相邻时色调统一。
 -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="32dp"
@@ -9,7 +9,7 @@
     android:viewportWidth="32"
     android:viewportHeight="32">
     <path
-        android:fillColor="#066A50"
+        android:fillColor="#3A4BC8"
         android:pathData="M7,0h18a7,7 0 0 1 7,7v18a7,7 0 0 1 -7,7h-18a7,7 0 0 1 -7,-7v-18a7,7 0 0 1 7,-7z" />
     <path
         android:fillColor="#FFFFFF"

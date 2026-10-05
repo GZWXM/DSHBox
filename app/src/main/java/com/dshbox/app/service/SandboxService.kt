@@ -931,7 +931,7 @@ class SandboxService : Service() {
             .setContentTitle(contentTitle)
             .setContentText(contentText)
             .setSmallIcon(R.drawable.ic_notification)
-            .setColor(0xFF10A37F.toInt())
+            .setColor(0xFF4D6BFE.toInt())
             .setOngoing(true)
             .setPriority(NotificationCompat.PRIORITY_LOW)
             .addAction(0, ctx.getString(R.string.notify_action_open_dsh), openPending)

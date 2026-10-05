@@ -32,7 +32,7 @@ import com.dshbox.app.util.Layer
 import java.io.File
 
 // --- 共享设计 token（供 FilesScreen / FolderPickerScreen 等文件页组件复用） ---
-internal val PrimaryGreen = Color(0xFF10A37F)
+internal val PrimaryGreen = Color(0xFF4D6BFE)
 internal val DangerRed = Color(0xFFDC2626)
 
 /** 文件页是否处于深色：与应用主题开关（浅色/深色/跟随系统）联动。 */

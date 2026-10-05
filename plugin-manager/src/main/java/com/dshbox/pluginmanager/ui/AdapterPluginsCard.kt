@@ -117,13 +117,13 @@ internal fun ToggleRow(
             onCheckedChange = { onToggle() },
             // 与设置页装配行同款配色：打开=品牌绿、关闭=灰白。
             colors = SwitchDefaults.colors(
-                checkedTrackColor = Color(0xFF10A37F),
+                checkedTrackColor = Color(0xFF4D6BFE),
                 uncheckedTrackColor = Color(0xFFD5D5D5),
                 checkedThumbColor = Color.White,
                 uncheckedThumbColor = Color(0xFF9E9E9E),
-                checkedBorderColor = Color(0xFF10A37F),
+                checkedBorderColor = Color(0xFF4D6BFE),
                 uncheckedBorderColor = Color(0xFFBDBDBD),
-                disabledCheckedTrackColor = Color(0x6610A37F),
+                disabledCheckedTrackColor = Color(0x664D6BFE),
                 disabledUncheckedTrackColor = Color(0xFFE3E3E3),
             ),
         )
